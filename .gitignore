@@ -2,4 +2,7 @@
 .idea
 target/
 .settings/
+.cache-main
+.cache-tests
 
+/bin/
